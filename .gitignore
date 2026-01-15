@@ -1,0 +1,9 @@
+output/
+*.log
+temp/
+tests/
+__pycache__/
+test_output/
+*.md
+!README.md
+.vscode/

@@ -1,0 +1,8 @@
+# ReWin Migration Tool - Python Dependencies
+# These are for the GUI components
+
+# tkinter is included with Python standard library
+# No additional packages required for basic functionality
+
+# Optional: For creating standalone executables
+# pyinstaller>=5.0
